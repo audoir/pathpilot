@@ -40,3 +40,8 @@ a {
     color-scheme: dark;
   }
 }
+
+.table-striped td,
+.table-striped th {
+  border: 1px solid white;
+}
